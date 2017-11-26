@@ -19,7 +19,9 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
+        "../nod_modules/boottstrap/dist/css/bootstrap.min.css",
         "styles.css"
+
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
